@@ -33,6 +33,13 @@ Mozilla出品，目前世界上最棒的Web开发文档库，主要内容包括W
 - [Vue官方文档](https://cn.vuejs.org/)：
 Vue的官方文档包，括官方全家桶的文档，都做得非常不错，清晰易读，其提供的官方教程个人认为是上手Vue的最佳材料，很多视频不过是照本宣科讲一遍文档罢了
 
+# Git
+- [廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)：
+非常实用的入门教程，日常基本使用的各方面基本都涵盖到了，最后还附上了搭建Git服务器的小节
+
+- [Learn Git Branching](https://learngitbranching.js.org/)：
+完整做一遍基本可以理解分支和索引操作的大杀器
+
 ### 质量不错的博客或专栏
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)：
 阮一峰老师的博客，关于技术的文章都是他的学习笔记和知识整理吧，对此他的[访谈](http://www.ruanyifeng.com/blog/2015/02/turing-interview.html)中有专门说明，所以个人倒不用抨击他错误特别多，更何况人家比我厉害多了，批判看待，取自己有用的就好，个人是非常佩服阮老师的学习精神的
