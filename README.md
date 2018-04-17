@@ -32,7 +32,7 @@ Mozilla出品，目前世界上最棒的Web开发文档库，主要内容包括W
 - [Node入门](https://www.nodebeginner.org/index-zh-cn.html)：
 同样是比较老的一份Node.js入门材料，内容不多，围绕一个最简单的基本文件上传服务，介绍了路由如何实现，适合入门看看
 
-- [Egg官方文档](http://eggjs.org/)
+- [Egg官方文档](http://eggjs.org/)：
 Egg的官方文档个人认为也做得非常友好，做node服务端开发不管用不用Egg都可以看一看学习里面提到的知识点，当然文档本身也是上手Egg的最佳材料
 
 ### Vue
