@@ -21,6 +21,9 @@ Mozilla出品，目前世界上最棒的Web开发文档库，主要内容包括W
 - [廖雪峰JavaScript教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)：
 比较基础的JavaScrept教程，内容覆盖面也比较广，适合新手
 
+- [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)：
+一份讲解JS中一些疑难杂症语法的资料
+
 - **JavaScript高级程序设计**：
 俗称红宝书，扎卡斯大神写的，目前翻译出版到第三版，英文好像第四版了。说是高级程序设计，其实都是关于JS开发需要掌握的基础中的基础
 
