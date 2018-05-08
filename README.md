@@ -49,6 +49,9 @@ Vue的官方文档包，括官方全家桶的文档，都做得非常不错，�
 - [Learn Git Branching](https://learngitbranching.js.org/)：
 完整做一遍基本可以理解分支和索引操作的大杀器
 
+- [沉浸式学Git](http://igit.linuxtoy.org/index.html)
+非常优秀简洁的一个教程，内容从入门开始，通过一些常用操作来学习，个人认为算是涵盖了日常使用的所有场景，跟着敲一边ruby也不错
+
 ### 质量不错的博客或专栏
 - [张鑫旭的博客](http://www.zhangxinxu.com/)：
 前端偏交互体验领域的大牛，也是个人非常佩服的人，对CSS的研究非常深入，博文风格略显啰嗦
