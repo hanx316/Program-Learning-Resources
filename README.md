@@ -28,7 +28,6 @@ Mozilla出品，目前世界上最棒的Web开发文档库，主要内容包括W
 俗称红宝书，扎卡斯大神写的，目前翻译出版到第三版，英文好像第四版了。说是高级程序设计，其实都是关于JS开发需要掌握的基础中的基础
 
 ### Node.js
-
 - [7天学会Node.js](https://www.lvtao.net/content/book/node.js.htm#1)：
 比较老的一份Node.js入门材料，阿里出品，名字就是一个噱头，看完用不了7天，也别指望看完就能学会，基础的东西基本不会有太大变化，现在还是适合入门学习
 
@@ -41,6 +40,10 @@ Egg的官方文档个人认为也做得非常友好，做node服务端开发不�
 ### Vue
 - [Vue官方文档](https://cn.vuejs.org/)：
 Vue的官方文档包，括官方全家桶的文档，都做得非常不错，清晰易读，其提供的官方教程个人认为是上手Vue的最佳材料，很多视频不过是照本宣科讲一遍文档罢了 
+
+### MongoDB
+- [MongoDB入门指南](https://jockchou.gitbooks.io/getting-started-with-mongodb/content/book/introduction.html)
+作为MongoDB入门上手的一份不错的材料，如果不是专门从事DB方面的工作或者高级的后端开发，这本书的内容从了解的层面来说已经足够了, Gitbook访问有时候比较慢，也可以在loveio上看[MongoDB入门指南](https://love2.io/@funkkiid/doc/Getting-Started-with-MongoDB)
 
 ### Git
 - [廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)：
