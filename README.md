@@ -42,8 +42,11 @@ Egg的官方文档个人认为也做得非常友好，做node服务端开发不�
 Vue的官方文档包，括官方全家桶的文档，都做得非常不错，清晰易读，其提供的官方教程个人认为是上手Vue的最佳材料，很多视频不过是照本宣科讲一遍文档罢了 
 
 ### MongoDB
-- [MongoDB入门指南](https://jockchou.gitbooks.io/getting-started-with-mongodb/content/book/introduction.html)
+- [MongoDB入门指南](https://jockchou.gitbooks.io/getting-started-with-mongodb/content/book/introduction.html)：
 作为MongoDB入门上手的一份不错的材料，如果不是专门从事DB方面的工作或者高级的后端开发，这本书的内容从了解的层面来说已经足够了, Gitbook访问有时候比较慢，也可以在loveio上看[MongoDB入门指南](https://love2.io/@funkkiid/doc/Getting-Started-with-MongoDB)
+
+- [Mongodb极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md)：
+如题目，一篇极简的MongoDB入门文章，包含了MongoDB最常用的内容，虽然说是入门，但是更建议阅读过上面的入门指南后再来看
 
 ### Git
 - [廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)：
