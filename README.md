@@ -60,7 +60,7 @@ Vue的官方文档包，括官方全家桶的文档，都做得非常不错，�
 
 ### Docker
 - [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)：
-Docker 入门的一本书，内容不算深入，但是也涵盖到了各个方面，非常不错。
+Docker 入门的一本书，内容不算深入，但是也涵盖到了各个方面，非常不错。Gitbook经常抽风，也可以在loveio上看[Docker — 从入门到实践](https://love2.io/@ayamefing/doc/docker_practice)
 
 ### 质量不错的博客或专栏
 - [张鑫旭的博客](http://www.zhangxinxu.com/)：
