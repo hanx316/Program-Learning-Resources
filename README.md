@@ -51,6 +51,9 @@ Vue 的官方文档包，括官方全家桶的文档，都做得非常不错，�
 - [MongoDB 极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md)：
 如题目，一篇极简的 MongoDB 入门文章，包含了 MongoDB 最常用的内容，虽然说是入门，但是更建议阅读过上面的入门指南后再来看
 
+- [MongoDB 中文手册](http://www.mongoing.com/docs/)：
+官方文档翻译，可以作为查询学习使用
+
 ### Git
 - [廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)：
 非常实用的入门教程，日常基本使用的各方面基本都涵盖到了，最后还附上了搭建Git服务器的小节
