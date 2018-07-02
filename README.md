@@ -69,15 +69,4 @@ Vue 的官方文档包，括官方全家桶的文档，都做得非常不错，�
 Docker 入门的一本书，内容不算深入，但是也涵盖到了各个方面，非常不错。Gitbook经常抽风，也可以在 love2.io 上看 [Docker — 从入门到实践](https://love2.io/@ayamefing/doc/docker_practice)
 
 ### 质量不错的博客或专栏
-- [张鑫旭的博客](http://www.zhangxinxu.com/)：
-前端偏交互体验领域的大牛，也是个人非常佩服的人，对 CSS 的研究非常深入，博文风格略显啰嗦
-
-- [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)：
-阮一峰老师的博客，关于技术的文章都是他的学习笔记和知识整理吧，对此他的[访谈](http://www.ruanyifeng.com/blog/2015/02/turing-interview.html)中有专门说明，所以个人倒不用抨击他错误特别多，更何况人家比我厉害多了，批判看待，取自己有用的就好，个人是非常佩服阮老师的学习精神的
-
-- [W3Cplus](https://www.w3cplus.com/)：
-大漠老师的个人站，国内 CSS 领域的专家，也是很佩服大漠老师坚持不断学习研究的精神，站内不止有 CSS 相关的内容，还有 Canvas，Vue，React 等等
-
-- [野生程序员的成长之路](http://www.kkh86.com/it/index.html)：
-博主是我的好友 kk，博客内容基本可以看出他的技术发展和为人处事态度了，技术内容偏基础和实用，对初学编程时的我而言受益良多
-
+- [点击查看](https://github.com/Samhanx/Program-Learning-Resources/blob/master/Remarked-Blogs.md)
