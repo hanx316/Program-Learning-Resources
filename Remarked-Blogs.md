@@ -24,3 +24,4 @@
 - [淘宝前端团队 FED](http://taobaofed.org/)
 - [美团技术团队博客](https://tech.meituan.com/)
 - [饿了么大前端知乎专栏](https://zhuanlan.zhihu.com/ElemeFE)
+- [大搜车技术团队博客](https://blog.souche.com/)
