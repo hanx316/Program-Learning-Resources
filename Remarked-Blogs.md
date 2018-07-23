@@ -22,4 +22,4 @@
 ### 业界技术团队博客
 
 - [淘宝前端团队 FED](http://taobaofed.org/)
-- [美团技术团队](https://tech.meituan.com/)
+- [美团技术团队博客](https://tech.meituan.com/)
