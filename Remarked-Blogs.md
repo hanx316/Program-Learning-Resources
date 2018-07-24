@@ -19,9 +19,10 @@
 - [**综合／PHP**] [野生程序员的成长之路](http://www.kkh86.com/it/index.html)：
 博主是我的好友 kk，博客内容基本可以看出他的技术发展和为人处事态度了，技术内容偏基础和实用，对初学编程时的我而言受益良多
 
-### 业界技术团队博客
+- [**前端**] [淘宝前端团队 FED](http://taobaofed.org/)
 
-- [淘宝前端团队 FED](http://taobaofed.org/)
-- [美团技术团队博客](https://tech.meituan.com/)
-- [饿了么大前端知乎专栏](https://zhuanlan.zhihu.com/ElemeFE)
-- [大搜车技术团队博客](https://blog.souche.com/)
+- [**综合／前端**] [美团技术团队博客](https://tech.meituan.com/)
+
+- [**前端**] [饿了么大前端知乎专栏](https://zhuanlan.zhihu.com/ElemeFE)
+
+- [**综合／前端**] [大搜车技术团队博客](https://blog.souche.com/)
