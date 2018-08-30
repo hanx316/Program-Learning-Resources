@@ -17,6 +17,10 @@ Mozilla 出品，目前世界上最棒的 Web 开发文档库，主要内容包�
 - [Gitchat](http://gitbook.cn/)：
 微信上的一个技术分享和课程平台，内容都需要付费，chat 会便宜一些，质量有高有低，多数还是不错的，这个链接是 PC 网站，技术文章大多数还是适合在电脑上阅读
 
+### CSS
+- [CSS Grid 游戏](https://cssgridgarden.com/)：
+学习 grid 布局属性的一个游戏，便于理解
+
 ### JavaScript
 - [ES6 标准入门](http://es6.ruanyifeng.com/)：
 阮一峰老师的 ES6+ 教程，已经出书三版，持续更新，应该是目前最全最好的ES6+中文学习材料，适合有一定 ES5 基础的人
@@ -42,7 +46,7 @@ Egg 的官方文档个人认为也做得非常友好，做node服务端开发不
 
 ### Vue
 - [Vue 官方文档](https://cn.vuejs.org/)：
-Vue 的官方文档包，括官方全家桶的文档，都做得非常不错，清晰易读，其提供的官方教程个人认为是上手 Vue 的最佳材料，很多视频不过是照本宣科讲一遍文档罢了 
+Vue 的官方文档包，括官方全家桶的文档，都做得非常不错，清晰易读，其提供的官方教程个人认为是上手 Vue 的最佳材料，很多视频不过是照本宣科讲一遍文档罢了
 
 ### MongoDB
 - [MongoDB 入门指南](https://jockchou.gitbooks.io/getting-started-with-mongodb/content/book/introduction.html)：
