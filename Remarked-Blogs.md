@@ -25,6 +25,9 @@
 - [**综合／Python**] [Python之禅](https://foofish.net/)：
 刘志军的博客
 
+- [**Python**] [小明明s à domicile](http://www.dongwm.com/)：
+豆瓣 Python 工程师董伟明的博客
+
 ### 行业团队博客／专栏
 
 - [**前端**] [淘宝前端团队 FED](http://taobaofed.org/)
