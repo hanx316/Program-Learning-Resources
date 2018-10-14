@@ -20,6 +20,9 @@ Mozilla 出品，目前世界上最棒的 Web 开发文档库，主要内容包�
 - [掘金](https://juejin.im/)：
 国内算是不错的一个线上技术社区和内容平台，文章质量高低明显，付费的掘金小册相对好一些
 
+- [极客时间](https://time.geekbang.org/)：
+技术行业的知识付费产品，兼具文字内容的专栏和视频课程，主要是开拓一下视野吧，app 用得多些
+
 ### CSS
 - [CSS Grid 游戏](https://cssgridgarden.com/)：
 学习 grid 布局属性的一个游戏，便于理解
