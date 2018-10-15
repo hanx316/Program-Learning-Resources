@@ -81,6 +81,10 @@ Vue 的官方文档包，括官方全家桶的文档，都做得非常不错，�
 - [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)：
 Docker 入门的一本书，内容不算深入，但是也涵盖到了各个方面，非常不错。Gitbook经常抽风，也可以在 love2.io 上看 [Docker — 从入门到实践](https://love2.io/@ayamefing/doc/docker_practice)
 
+### Nginx
+- [Nginx 文档翻译](https://docshome.gitbooks.io/nginx-docs/content/)：
+非官翻，目前没有找到什么合适的 Nginx 入门资料，可以当作学习材料来看待
+
 ### Python
 - [Python 官方指南](https://docs.python.org/3/tutorial/index.html)：
 官方的指南无疑是一份极好的学习材料，入门 Python 必看。官方的指南没有中文版本，这里有一个基于 3.6 版本的中文翻译可以参考：[Python 入门指南](http://www.pythondoc.com/pythontutorial3/index.html)
