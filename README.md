@@ -70,6 +70,9 @@ Vue 的官方文档包，括官方全家桶的文档，都做得非常不错，�
 - [廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)：
 非常实用的入门教程，日常基本使用的各方面基本都涵盖到了，最后还附上了搭建Git服务器的小节
 
+- [猴子都能懂的Git入门](https://backlog.com/git-tutorial/cn/contents/)
+同样是非常实用的入门教程，整体内容比廖的还要丰富一些
+
 - [Learn Git Branching](https://learngitbranching.js.org/)：
 完整做一遍基本可以理解分支和索引操作的大杀器
 
