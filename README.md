@@ -33,9 +33,6 @@ Mozilla 出品，目前世界上最棒的 Web 开发文档库，主要内容包�
 - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)：
 一份讲解 JS 中一些疑难杂症语法的资料
 
-- **JavaScript 高级程序设计**：
-俗称红宝书，扎卡斯大神写的，目前翻译出版到第三版，英文好像第四版了。说是高级程序设计，其实都是关于 JS 开发需要掌握的基础中的基础
-
 ### Node.js
 - [7天学会 Node.js](https://www.lvtao.net/content/book/node.js.htm#1)：
 比较老的一份 Node.js 入门材料，阿里出品，名字就是一个噱头，看完用不了7天，也别指望看完就能学会，基础的东西基本不会有太大变化，现在还是适合入门学习
