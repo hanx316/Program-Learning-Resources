@@ -1,5 +1,9 @@
 # 个人编程优质学习资源收藏夹
 
+### 规范
+- [Promises/A+](https://promisesaplus.com/)：
+ES6 采用的 Promises/A+ 规范，这里有一个[中译版本](http://www.ituring.com.cn/article/66566)
+
 ### 综合
 - [FCC 中国](https://www.freecodecamp.one/)：
 在线编程网站，闯关式练习，基本都是前端的内容，基础向，包含一些基础算法和基础编程思维训练，其中部分项目开发还是具有不小的难度，全部刷完足够胜任前端工作
