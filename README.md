@@ -37,6 +37,9 @@ Mozilla 出品，目前世界上最棒的 Web 开发文档库，主要内容包�
 - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)：
 一份讲解 JS 中一些疑难杂症语法的资料
 
+- [JavaScript Promise 迷你书](http://liubin.org/promises-book/)：
+比较早的一个学习 Promise 的材料，阅读规范之外，可以看看作为补充理解
+
 ### Node.js
 - [7天学会 Node.js](https://www.lvtao.net/content/book/node.js.htm#1)：
 比较老的一份 Node.js 入门材料，阿里出品，名字就是一个噱头，看完用不了7天，也别指望看完就能学会，基础的东西基本不会有太大变化，现在还是适合入门学习
