@@ -1,4 +1,4 @@
-# 个人编程优质学习资源收藏夹
+# 编程优质学习资源
 
 ### 规范
 - [Promises/A+](https://promisesaplus.com/)：
