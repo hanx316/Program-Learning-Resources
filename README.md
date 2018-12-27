@@ -60,6 +60,10 @@ Vue 的官方文档包，括官方全家桶的文档，都做得非常不错，�
 - [Vue 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)：
 慕课网 Vue 源码解读的文档版本
 
+### D3
+- [D3.js 入门教程](http://wiki.jikexueyuan.com/project/d3wiki/)：
+不错的入门教程，但是适用的 d3 版本不是最新的
+
 ### MongoDB
 - [MongoDB 入门指南](https://jockchou.gitbooks.io/getting-started-with-mongodb/content/book/introduction.html)：
 作为 MongoDB 入门上手的一份不错的材料，如果不是专门从事 DB 方面的工作或者高级的后端开发，这本书的内容从了解的层面来说已经足够了, Gitbook 访问有时候比较慢，也可以在 love2.io 上看 [MongoDB 入门指南](https://love2.io/@funkkiid/doc/Getting-Started-with-MongoDB)
