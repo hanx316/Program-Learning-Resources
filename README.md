@@ -60,6 +60,10 @@ Vue 的官方文档包，括官方全家桶的文档，都做得非常不错，�
 - [Vue 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)：
 慕课网 Vue 源码解读的文档版本
 
+### SVG
+- [SVG 教程](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)：
+MDN 上的教程，入门参考
+
 ### D3
 - [D3.js 入门教程](http://wiki.jikexueyuan.com/project/d3wiki/)：
 不错的入门教程，但是适用的 d3 版本不是最新的
