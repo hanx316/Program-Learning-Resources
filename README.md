@@ -4,6 +4,9 @@
 - [Promises/A+](https://promisesaplus.com/)：
 ES6 采用的 Promises/A+ 规范，这里有一个[中译版本](http://www.ituring.com.cn/article/66566)
 
+- [W3C SVG](https://www.w3.org/Graphics/SVG/)：
+W3C SVG 规范
+
 ### 综合
 - [FCC 中国](https://www.freecodecamp.one/)：
 在线编程网站，闯关式练习，基本都是前端的内容，基础向，包含一些基础算法和基础编程思维训练，新版课程丰富了框架和可视化等相关内容，其中部分项目开发还是具有不小的难度，全部刷完足够胜任前端工作
@@ -63,6 +66,9 @@ Vue 的官方文档包，括官方全家桶的文档，都做得非常不错，�
 ### SVG
 - [SVG 教程](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)：
 MDN 上的教程，入门参考
+
+- [SVG 手册](http://know.webhek.com/svg/svg-home.html)：
+方便入门和查阅使用
 
 ### D3
 - [D3.js 入门教程](http://wiki.jikexueyuan.com/project/d3wiki/)：
