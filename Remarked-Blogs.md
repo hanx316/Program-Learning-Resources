@@ -39,3 +39,5 @@
 - [**综合／前端**] [大搜车技术团队博客](https://blog.souche.com/)
 
 - [**前端**] [京东凹凸实验室](https://aotu.io/index.html)
+
+- [**前端**] [百度FEX](http://fex.baidu.com/)
