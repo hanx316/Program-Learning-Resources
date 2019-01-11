@@ -84,6 +84,10 @@ MDN 上的教程，入门参考
 - [MongoDB 中文手册](http://www.mongoing.com/docs/)：
 官方文档翻译，可以作为查询学习使用
 
+### 正则表达式
+- [学习正则表达式的简单方法](https://github.com/cdoco/learn-regex-zh)：
+简单易懂的正则教程
+
 ### Git
 - [廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)：
 非常实用的入门教程，日常基本使用的各方面基本都涵盖到了，最后还附上了搭建Git服务器的小节
