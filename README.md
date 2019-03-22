@@ -26,6 +26,11 @@ Mozilla 出品，目前世界上最棒的 Web 开发文档库，主要内容包�
 - [极客时间](https://time.geekbang.org/)：
 技术行业的知识付费产品，兼具文字专栏和视频课程，内容还是挺丰富的，比如耗子叔的专栏就很开眼界，app 用得多些
 
+### 算法
+- [LeetCode 英文站](https://leetcode.com/)
+- [LeetCode 中文站](https://leetcode-cn.com/)：
+LeetCode 刷算法题必备
+
 ### CSS
 - [CSS Grid 游戏](https://cssgridgarden.com/)：
 学习 grid 布局属性的一个游戏，便于理解
