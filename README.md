@@ -1,6 +1,9 @@
 # 编程优质学习资源
 
 ### 规范
+- [ECMA-262](https://tc39.github.io/ecma262/)：
+ECMAScript 标准
+
 - [Promises/A+](https://promisesaplus.com/)：
 ES6 采用的 Promises/A+ 规范，这里有一个[中译版本](http://www.ituring.com.cn/article/66566)
 
