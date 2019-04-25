@@ -49,6 +49,11 @@ LeetCode 刷算法题必备
 
 - [Node 入门](https://www.nodebeginner.org/index-zh-cn.html)
 
+- [Node.js 官方文档](https://nodejs.org/en/docs/)
+
+- [Node.js 中文网](http://nodejs.cn/)：
+可以当中文文档用
+
 - [Egg 官方文档](https://eggjs.app/)
 
 - [Koa 官方文档](https://koa.bootcss.com/)
