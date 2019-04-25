@@ -15,6 +15,9 @@ W3C SVG 规范
 ### 综合
 - [MDN 文档](https://developer.mozilla.org/zh-CN/)
 
+- [印记中文](https://docschina.org/)：
+一个前端中文文档平台
+
 - [FCC 中国](https://www.freecodecamp.one/)
 
 - [慕课网](https://www.imooc.com/)
