@@ -12,6 +12,10 @@ ES6 采用的 Promises/A+ 规范，这里有一个[中译版本](http://www.itur
 - [W3C SVG](https://www.w3.org/Graphics/SVG/)：
 W3C SVG 规范
 
+- [Can I use](https://caniuse.com/)：查询前端各种语法支持性
+
+- [Node Green](https://node.green/)：查询 JS 语法在 Node 的支持性
+
 ### 综合
 - [MDN 文档](https://developer.mozilla.org/zh-CN/)
 
