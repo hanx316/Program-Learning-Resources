@@ -87,6 +87,8 @@ MDN 上的教程，入门参考
 一份民间文档，非官方，目前是比较全的，5.x 版本的
 
 ### MongoDB
+- [MongoDB 文档和手册](https://docs.mongodb.com/)
+
 - [MongoDB 入门指南](https://jockchou.gitbooks.io/getting-started-with-mongodb/content/book/introduction.html)：
 Gitbook 访问有时候比较慢，也可以在 love2.io 上看 [MongoDB 入门指南](https://love2.io/@funkkiid/doc/Getting-Started-with-MongoDB)
 
