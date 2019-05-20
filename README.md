@@ -122,7 +122,7 @@ Gitbook经常抽风，也可以在 love2.io 上看 [Docker — 从入门到实�
 
 ### Python
 - [Python 官方指南](https://docs.python.org/3/tutorial/index.html)：
-官方的指南没有中译还不完善，这里有一个基于 3.6 版本的中文翻译可以参考：[Python 入门指南](http://www.pythondoc.com/pythontutorial3/index.html)
+官方的指南的中译还不完善，这里有一个基于 3.6 版本的中文翻译可以参考：[Python 入门指南](http://www.pythondoc.com/pythontutorial3/index.html)
 
 ### 质量不错的博客或专栏
 - [点击查看](https://github.com/Samhanx/Program-Learning-Resources/blob/master/Remarked-Blogs.md)
