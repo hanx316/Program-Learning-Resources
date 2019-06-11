@@ -116,6 +116,15 @@ Gitbook 访问有时候比较慢，也可以在 love2.io 上看 [MongoDB 入门�
 - [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)：
 Gitbook经常抽风，也可以在 love2.io 上看 [Docker — 从入门到实践](https://love2.io/@ayamefing/doc/docker_practice)
 
+### k8s
+- [Kubernetes Handbook](https://jimmysong.io/kubernetes-handbook/)
+- [Kubernetes 官方文档集合](https://kubernetes.io/docs/home/)
+- [Kubernetes API](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.14/)：
+入口不太好找，方便查阅用
+- [Kubectl 官方文档](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)：
+入口不太好找，方便查阅用
+
+
 ### Nginx
 - [Nginx 文档翻译](https://docshome.gitbooks.io/nginx-docs/content/)：
 非官翻，目前没有找到什么合适的 Nginx 入门资料，可以当作学习材料来看待
