@@ -123,6 +123,7 @@ Gitbook经常抽风，也可以在 love2.io 上看 [Docker — 从入门到实�
 入口不太好找，方便查阅用
 - [Kubectl 官方文档](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)：
 入口不太好找，方便查阅用
+- [Kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/#viewing-finding-resources)
 
 
 ### Nginx
