@@ -41,6 +41,10 @@ LeetCode 刷算法题必备
 - [CSS Grid 游戏](https://cssgridgarden.com/)：
 学习 grid 布局属性的一个游戏，便于理解
 
+- [box-shadow 预览测试](https://www.html.cn/tool/css3Preview/Box-Shadow.html)
+
+- [缓动函数预览](http://xuanfengge.com/easeing/ceaser/)
+
 ### JavaScript
 - [ES6 标准入门](http://es6.ruanyifeng.com/)
 
