@@ -9,6 +9,10 @@ ECMAScript 标准
 - [Promises/A+](https://promisesaplus.com/)：
 ES6 采用的 Promises/A+ 规范，这里有一个[中译版本](http://www.ituring.com.cn/article/66566)
 
+- [Architectural Styles and
+the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)：
+Roy T. Fielding 关于 REST 风格的博士论文
+
 - [W3C SVG](https://www.w3.org/Graphics/SVG/)：
 W3C SVG 规范
 
