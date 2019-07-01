@@ -71,7 +71,7 @@ LeetCode 刷算法题必备
 - [Node.js 中文网](http://nodejs.cn/)：
 可以当中文文档用
 
-- [Egg 官方文档](https://eggjs.app/)
+- [Egg 官方文档](https://eggjs.org)
 
 - [Koa 官方文档](https://koa.bootcss.com/)
 
