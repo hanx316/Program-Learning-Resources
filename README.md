@@ -18,9 +18,9 @@
 
 - [MDN JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 
-- [Node.js 官方文档](https://nodejs.org/en/docs/)：中文文档可以参考[Node.js 中文网](http://nodejs.cn/)
+- [Node.js 官方文档](https://nodejs.org/en/docs/)：中文文档可以参考 [Node.js 中文网](http://nodejs.cn/)
 
-- [TypeScript 官方文档](https://www.typescriptlang.org/docs/home.html)：中文文档可以参考[TypeScript 中文网](https://www.tslang.cn/index.html)
+- [TypeScript 官方文档](https://www.typescriptlang.org/docs/home.html)：中文文档可以参考 [TypeScript 中文网](https://www.tslang.cn/index.html)
 
 #### 出版书籍／电子书
 
@@ -120,6 +120,8 @@
 ### HTTP 协议
 
 - [HTTP STATUS CODEs](https://httpstatuses.com/)：速查 HTTP Code 解释的一个网站
+
+- [图解 HTTP](https://book.douban.com/subject/25863515/)
 
 ### RESTful API
 
