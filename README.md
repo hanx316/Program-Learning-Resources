@@ -164,7 +164,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 - [廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
-- [猴子都能懂的Git入门](https://backlog.com/git-tutorial/cn/contents/)
+- [猴子都能懂的 Git 入门](https://backlog.com/git-tutorial/cn/contents/)
 
 - [Learn Git Branching](https://learngitbranching.js.org/)：完整做一遍基本可以理解分支和索引操作
 
