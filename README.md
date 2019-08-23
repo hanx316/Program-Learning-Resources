@@ -64,6 +64,8 @@
 
 #### 其他
 
+- [CSS Tricks](https://qishaoxuan.github.io/css_tricks/)
+
 - [CSS Grid 游戏](https://cssgridgarden.com/)：学习 grid 布局属性的一个游戏，便于理解
 
 - [box-shadow 预览测试](https://www.html.cn/tool/css3Preview/Box-Shadow.html)
