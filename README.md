@@ -6,6 +6,12 @@
 
 [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) 😊
 
+## 导航
+
+- JS[#JavaScript / EcmaScript / Node.js / TypeScript]
+
+- Python[#Python]
+
 ## 语言
 
 ### JavaScript / EcmaScript / Node.js / TypeScript
