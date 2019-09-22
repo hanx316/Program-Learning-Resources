@@ -8,9 +8,9 @@
 
 ## 导航
 
-- JS[#JavaScript / EcmaScript / Node.js / TypeScript]
+- JS[https://github.com/Samhanx/Program-Learning-Resources#javascript--ecmascript--nodejs--typescript]
 
-- Python[#Python]
+- Python[https://github.com/Samhanx/Program-Learning-Resources#python]
 
 ## 语言
 
