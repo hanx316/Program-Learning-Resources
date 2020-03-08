@@ -165,7 +165,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 - [MongoDB 中文手册](http://www.mongoing.com/docs/)：旧版官方文档翻译（到3.4）
 
-- [MongoDB 入门指南](https://jockchou.gitbooks.io/getting-started-with-mongodb/content/book/introduction.html)：Gitbook 时常抽风，可在 love2.io 上看 [MongoDB 入门指南](https://love2.io/@funkkiid/doc/Getting-Started-with-MongoDB)
+- [MongoDB 入门指南](https://jockchou.gitbooks.io/getting-started-with-mongodb/content/book/introduction.html)
 
 
 ## 版本管理
