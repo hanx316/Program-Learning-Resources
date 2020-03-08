@@ -106,6 +106,12 @@
 
 - [SVG 手册](http://know.webhek.com/svg/svg-home.html)：方便入门和查阅使用
 
+### React
+
+- [React 官方文档](https://reactjs.org/)
+
+- [React.js 小书](http://huziketang.mangojuice.top/books/react/)
+
 ### Vue
 
 - [Vue 官方文档](https://cn.vuejs.org/)
