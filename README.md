@@ -116,9 +116,9 @@
 
 - [Vue 官方文档](https://cn.vuejs.org/)
 
-- [Vue 技术内幕](http://hcysun.me/vue-design/)
-
 - [Vue 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
+
+- [Vue 技术内幕](http://hcysun.me/vue-design/zh/)
 
 ### D3
 
