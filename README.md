@@ -191,7 +191,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Docker
 
-- [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)：Gitbook 时常抽风，可在 love2.io 上看 [Docker — 从入门到实践](https://love2.io/@ayamefing/doc/docker_practice)
+- [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)
 
 ### Kubernetes(k8s)
 
