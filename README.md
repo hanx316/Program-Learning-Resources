@@ -36,6 +36,8 @@
 
 - [TypeScript 入门教程](https://github.com/xcatliu/typescript-tutorial)
 
+- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
+
 - [Node 入门](https://www.nodebeginner.org/index-zh-cn.html)
 
 #### 工具
