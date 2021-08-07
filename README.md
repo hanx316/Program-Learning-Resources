@@ -1,22 +1,10 @@
 # Program Learning Resources
 
-编程学习和开发的常用资源，包括各类站点、平台或者书籍。
-
-均是从自己用过、看过或者在用、在看的资源中筛选出来的，方便自己快速导航和推荐他人。
-
 [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) 😊
-
-## 导航
-
-- [JS](#javascript--ecmascript--nodejs--typescript)
-
-- [Python](#python)
-
-## 语言
 
 ### JavaScript / EcmaScript / Node.js / TypeScript
 
-#### 标准／规范／文档
+#### Documents
 
 - [ECMA-262](https://tc39.github.io/ecma262/)：ECMAScript 标准
 
@@ -28,7 +16,15 @@
 
 - [TypeScript 官方文档](https://www.typescriptlang.org/docs/home.html)：中文文档可以参考 [TypeScript 中文网](https://www.tslang.cn/index.html)
 
-#### 出版书籍／电子书
+#### Guides
+
+- [廖雪峰 JavaScript 教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)：比较基础的 JavaScrept 教程，内容覆盖面也比较广，适合新手
+
+- [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+
+- [Node.js 技术栈](https://www.nodejs.red)
+
+#### Books
 
 - [ES6 标准入门](http://es6.ruanyifeng.com/)
 
@@ -40,37 +36,31 @@
 
 - [Node 入门](https://www.nodebeginner.org/index-zh-cn.html)
 
-#### 工具
+#### Tools
 
 - [Node Green](https://node.green/)：查询 JS 语法在 Node.js 的支持性
 
 - [JS Bin](https://jsbin.com/?html,output)：HTML, CSS, JS 在线代码运行工具，似乎需要梯子
 
-#### 其他
-
-- [廖雪峰 JavaScript 教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)：比较基础的 JavaScrept 教程，内容覆盖面也比较广，适合新手
-
-- [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
-
-- [Node.js 技术栈](https://www.nodejs.red)
 
 ### Python
 
-#### 标准／规范／文档
+#### Documents
 
 - [Python 官方指南](https://docs.python.org/3/tutorial/index.html)：一个基于 3.6 版本的中文翻译可以参考 [Python 入门指南](http://www.pythondoc.com/pythontutorial3/index.html)
 
-#### 出版书籍／电子书
+#### Books
 
 - [Python 基础教程](https://book.douban.com/subject/27667375/)
 
+
 ### CSS
 
-#### 标准／规范／文档
+#### Documents
 
 - [MDN CSS](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
 
-#### 其他
+#### Guides
 
 - [CSS Tricks](https://qishaoxuan.github.io/css_tricks/)
 
@@ -80,7 +70,8 @@
 
 - [缓动函数预览](http://xuanfengge.com/easeing/ceaser/)
 
-### 正则表达式
+
+### 正则表达式 Regular Expression
 
 - [学习正则表达式的简单方法](https://github.com/cdoco/learn-regex-zh)：简单易懂的正则教程
 
@@ -93,6 +84,17 @@
 - [Regulex](https://jex.im/regulex/)：可视化正则分析
 
 
+### Git
+
+- [廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+- [猴子都能懂的 Git 入门](https://backlog.com/git-tutorial/cn/contents/)
+
+- [Learn Git Branching](https://learngitbranching.js.org/)：完整做一遍基本可以理解分支和索引操作
+
+- [沉浸式学 Git](http://igit.linuxtoy.org/index.html)
+
+
 ## 数据结构与算法
 
 - [LeetCode 英文站](https://leetcode.com/)，[LeetCode 中文站](https://leetcode-cn.com/)：LeetCode 刷算法题必备
@@ -100,7 +102,9 @@
 - [visualgo](https://visualgo.net/en)：常规算法可视化
 
 
-## Web 前端
+## Frontend
+
+- [印记中文](https://docschina.org/)：一个前端中文文档平台
 
 ### SVG
 
@@ -114,7 +118,9 @@
 
 - [React 官方文档](https://reactjs.org/)
 
-- [React.js 小书](http://huziketang.mangojuice.top/books/react/)
+- [React.js 小书](https://hyf.js.org/react-naive-book/)
+
+- [React 技术揭秘](https://react.iamkasong.com/)
 
 - [React Typescript Cheetsheet](https://react-typescript-cheatsheet.netlify.app/)
 
@@ -132,44 +138,30 @@
 
 - [D3.js 中文文档](https://d3js.org.cn/)：一份民间文档，非官方，目前是比较全的，5.x 版本的
 
-### 其他
-
-- [印记中文](https://docschina.org/)：一个前端中文文档平台
-
-### 兼容性
+### Tools
 
 - [Can I use](https://caniuse.com/)：查询前端各种语法支持性
 
 
-## Web 服务端
+## Backend
 
-### HTTP 协议
+### HTTP
 
 - [HTTP STATUS CODEs](https://httpstatuses.com/)：速查 HTTP Code 解释的一个网站
 
 - [图解 HTTP](https://book.douban.com/subject/25863515/)
 
-### RESTful API
-
-- [Architectural Styles and
-the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)：
-
-  Roy T. Fielding 关于 REST 风格的博士论文
-
 ### Nginx
 
 - [Nginx 旧版官方文档](https://nginx.org/en/docs/)：旧版文档民间翻译 [Nginx 中文文档](https://docshome.gitbooks.io/nginx-docs/content/)
 
-### Node.js 框架
+### Node.js Frameworks
 
 - [Egg 官方文档](https://eggjs.org)
 
 - [Koa 官方文档](https://koajs.com/)：中文文档两个参考 [这个](https://koa.bootcss.com/)和[这个](https://github.com/demopark/koa-docs-Zh-CN)
 
 - [Express 官方文档](https://expressjs.com/)
-
-
-## 数据库
 
 ### MongoDB
 
@@ -179,22 +171,6 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 - [MongoDB 入门指南](https://jockchou.gitbooks.io/getting-started-with-mongodb/content/book/introduction.html)
 
-
-## 版本管理
-
-### Git
-
-- [廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-
-- [猴子都能懂的 Git 入门](https://backlog.com/git-tutorial/cn/contents/)
-
-- [Learn Git Branching](https://learngitbranching.js.org/)：完整做一遍基本可以理解分支和索引操作
-
-- [沉浸式学 Git](http://igit.linuxtoy.org/index.html)
-
-
-## 容器和虚拟化
-
 ### Docker
 
 - [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)
@@ -203,7 +179,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 - [Kubernetes 官方文档集合](https://kubernetes.io/docs/home/)
 
-- [Kubernetes API](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.14/)：入口不太好找，方便查阅用
+- [Kubernetes API](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.22/)：v1.22 入口不太好找，方便查阅用
 
 - [Kubectl 官方文档](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)：入口不太好找，方便查阅用 [Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/#viewing-finding-resources)
 
@@ -214,16 +190,3 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 - [Vagrant 官方文档](https://www.vagrantup.com/docs/)
 
 - [Vagrant 入门指引](https://github.com/whorusq/learning-vagrant)
-
-
-## 平台&社区
-
-- [freeCodeCamp](https://www.freecodecamp.org/)
-
-- [慕课网](https://www.imooc.com/)
-
-- [极客时间](https://time.geekbang.org/)
-
-- [Gitchat](http://gitbook.cn/)
-
-- [掘金](https://juejin.im/)
